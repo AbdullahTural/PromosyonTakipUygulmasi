@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "promosyonTakip.core", "promosyonTakip.core\promosyonTakip.core.csproj", "{9D499C82-6B78-4A94-9CA5-50F4E353A45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "promosyonTakip.UI.Musteri", "promosyonTakip.UI.Musteri\promosyonTakip.UI.Musteri.csproj", "{B9B60EBC-5D5A-4939-A36A-19871EB1C904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D499C82-6B78-4A94-9CA5-50F4E353A45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D499C82-6B78-4A94-9CA5-50F4E353A45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D499C82-6B78-4A94-9CA5-50F4E353A45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D499C82-6B78-4A94-9CA5-50F4E353A45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B60EBC-5D5A-4939-A36A-19871EB1C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B60EBC-5D5A-4939-A36A-19871EB1C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B60EBC-5D5A-4939-A36A-19871EB1C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B60EBC-5D5A-4939-A36A-19871EB1C904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C07DD9F-5513-4882-9194-6DEDAB8759A7}
+	EndGlobalSection
+EndGlobal

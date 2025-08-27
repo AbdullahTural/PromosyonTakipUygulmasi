@@ -1,0 +1,15 @@
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe.config
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.pdb
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.core.dll
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.core.pdb
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.AssemblyReference.cache
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.anaEkran.resources
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Form1.resources
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Properties.Resources.resources
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.GenerateResource.cache
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.CoreCompileInputs.cache
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyo.238AC403.Up2Date
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.pdb
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.hediyeGoster.resources

@@ -1,0 +1,6 @@
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\bin\Debug\promosyonTakip.core.dll
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\bin\Debug\promosyonTakip.core.pdb
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\obj\Debug\promosyonTakip.core.csproj.AssemblyReference.cache
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\obj\Debug\promosyonTakip.core.csproj.CoreCompileInputs.cache
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\obj\Debug\promosyonTakip.core.dll
+C:\Users\karne\source\repos\promosyonTakipUygulaması\promosyonTakip\promosyonTakip.core\obj\Debug\promosyonTakip.core.pdb

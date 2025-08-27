@@ -1,0 +1,68 @@
+﻿create database promosyonSepeti
+go
+use promosyonSepeti
+
+create table sistemMagaza 
+(
+id int identity(1,1) primary key,
+tanim nvarchar(100),
+adres nvarchar(100),
+yetkiliKisi nvarchar(100),
+kullaniciAdi nvarchar(50) unique,
+sifre nvarchar(50)
+)
+
+insert into sistemMagaza values('Sefaköy AVM Mağaza - 1' , 'Sefaköy' , 'abdullah tural' , 'abdullah','1')
+insert into sistemMagaza values('Sefaköy AVM Mağaza - 2' , 'Sefaköy' , 'ali tural' , 'ali','1')
+insert into sistemMagaza values('Bayrampaşa AVM Mağaza ' , 'Sefaköy' , ',Murat Yılgın' , 'murat','1')
+
+select * from sistemMagaza 
+
+create table potansiyelMusteri
+(
+id int identity(1,1) primary key,
+tcKimlikNumara nvarchar(15),
+isim nvarchar(15),
+soyisim nvarchar(15),
+dogumTarih datetime ,
+cinsiyet int,
+meslek nvarchar(100),
+emailAdres nvarchar(100),
+emailBildirimOnay bit,
+telefon nvarchar(15),
+telefonBildirimOnay bit,
+olusturmaTarih datetime,
+olusturanMagaza int
+)
+
+create table promosyonUrun
+(
+id int identity(1,1) primary key,
+tanim nvarchar(100),
+aciklama nvarchar(250),
+gecerlilikTarih datetime,
+kulllanimDurum bit
+
+)
+
+insert into promosyonUrun values ('%10 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%20 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%30 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%40 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%50 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%60 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+insert into promosyonUrun values ('%70 ', 'indirim tüm magazlarda geçerli', '2019.04.01' , 0)
+
+select top 42 * from promosyonUrun where kulllanimDurum = 0 order by NEWID()
+
+create table katilimciPromosyon
+(
+id int identity(1,1) primary key,
+potansiyelMusteriId int,
+promosyonUrunId int,
+olusturmaTarih datetime,
+magazaId int,
+
+)
+
+select * from katilimciPromosyon
