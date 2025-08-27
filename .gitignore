@@ -1,0 +1,28 @@
+# Visual Studio ve .NET
+*.log
+*.pfx
+*.vs/
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.suo
+*.user
+*.bak
+*.resharper
+*.DotSettings
+.vs/
+*.vshost.*
+*.testsettings
+*.trx
+*.vsix
+*.cache
+
+# NuGet
+packages/
+*.nupkg
+*.nuspec
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
